@@ -1,0 +1,19 @@
+{
+  "name": "ambre-formation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminebma/ambre-formation.git"
+  },
+  "author": "Mohamed Amine BENBAKHTA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminebma/ambre-formation/issues"
+  },
+  "homepage": "https://github.com/aminebma/ambre-formation#readme"
+}
